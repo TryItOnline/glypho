@@ -1,5 +1,7 @@
 # [Glypho - The linguistically independent programming language](https://web.archive.org/web/20060621185740/http://www4.ncsu.edu/~bcthomp2/glypho.txt)
 
+**The materials in this repository were not produced by the owner of the repository. Please click on the link in the header to go to the original web site these materials were copied from. The purpose of this copy is to automate setup of a mirror for https://tryitonline.net. It's more straight forward to clone a repository than to parse a web page.**
+
 Created & Described by: Brian Thompson (Wildhalcyon) September 18, 2005
 
 Updated: September 20, 2005 - Revised tutorial on symbol enumeration, added appendix on stirling numbers
